@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lapatron@uwm.edu**
 
-- ⚡ Fun fact **I enjoy the creating and evolving my skills**
+- ⚡ Fun fact **I enjoy creating and evolving my skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
