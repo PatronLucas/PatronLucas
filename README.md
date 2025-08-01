@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patronlucas&label=Profile%20views&color=0e75b6&style=flat" alt="patronlucas" /> </p>
 
-- 🔭 I’m currently working on **Smbbh simulations**
+- 🔭 I’m researched **Smbbh simulations** and **pulsars**
 
-- 🌱 I’m currently learning **Algorithms, Machine Learning, and Data Science**
+- 🌱 I’m currently learning **Applied Statistics, Machine Learning, and Data Science**
 
-- 💬 Ask me about **Python, Enterprise, and Gravitational Waves**
+- 💬 Ask me about **Python, Gravitational Waves, and Finance**
 
-- 📫 How to reach me **lapatron@uwm.edu**
+- 📫 How to reach me **lukeapatron@outlook.com**
 
-- ⚡ Fun fact **I enjoy creating and evolving my skills**
+- ⚡ Fun fact **I enjoy building technology, cycling, and gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
